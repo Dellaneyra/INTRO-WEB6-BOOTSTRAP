@@ -1,0 +1,27 @@
+h1 {
+    color: hotpink;
+}
+
+
+/*Media Query
+
+Responive: Responde a un determinado factor o situacion. Es la capacidad que tienen los elementos para ajustar a las ventanas (tanto en tamaño como disposición)
+
+Funciona con CSS Puro (Medias Querys)
+
+Es una regla especial que se ejecuta solo cuando se cumplen ciertas condiciones. Estas condiciones estan relacionadas con las caracteristicas de nuestro dispositivo, como el ancho de la pantalla, la orientación, y la resolución. 
+
+La sintaxis de una media query es:
+
+@media (parametros o condiciones a cumplir){
+    estilos que se aplican cuando se cumple la condicion
+}
+
+EJEMPLO: 
+@media(min-width: 500px) and (max-width: 1024px){
+    body{
+        background-color: pink;
+    }
+}
+
+*/
